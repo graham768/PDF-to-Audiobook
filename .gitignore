@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/*
+*.pdf
+audio/*
+!audio/.gitkeep
+venv/*
+.python-version
